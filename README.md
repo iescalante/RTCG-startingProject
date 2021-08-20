@@ -1,6 +1,8 @@
 # Expense Tracker with Charts
 Expense tracker that shows a simple chart and a filter by year
 
+To start project simply use `npm run start` or `yarn start`
+
 ## On load
 
 ![image](https://user-images.githubusercontent.com/61524356/130302429-2e0b3a0c-a08a-4433-9a99-13f91aa9a25e.png)
